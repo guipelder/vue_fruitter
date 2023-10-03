@@ -5,13 +5,18 @@ about selling fruits.
 ## screenshots
 
 ### Main page
-![Screenshot 2023-10-03 at 19-40-35 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/eab1907b-ca69-4cb3-8bd0-f78a8cec5adc)
+![Screenshot 2023-10-03 at 20-19-15 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/81ec4aec-72ad-4fc0-a9d2-f80f133f7344)
 
 ### Login page
-![Screenshot 2023-10-03 at 19-41-26 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/0834ff71-8d43-4c89-b671-0acc9f8ccfb4)
+![Screenshot 2023-10-03 at 20-20-15 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/7122e8a5-44cf-415a-b93a-00e7bead0980)
+
 
 ### Catagory page
-![Screenshot 2023-10-03 at 19-41-44 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/d2c1869b-82b4-4780-b3e3-73fc1fa4d636)
+![Screenshot 2023-10-03 at 20-18-42 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/52bd8849-5aa5-487a-acbb-727fb7c979f7)
+
+### Carts page
+![Screenshot 2023-10-03 at 20-20-03 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/bf417ffc-2002-419c-82ed-834ed32fddcc)
+
 
 ### About page
 ![Screenshot 2023-10-03 at 19-42-01 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/a5ff52f8-61a5-4bf4-9519-2ccfdeaa409b)
