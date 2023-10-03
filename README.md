@@ -5,7 +5,8 @@ about selling fruits.
 ## screenshots
 
 ### Main page
-![Screenshot 2023-10-03 at 20-19-15 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/81ec4aec-72ad-4fc0-a9d2-f80f133f7344)
+![Screenshot 2023-10-03 at 20-19-15 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/aeeaa92e-61f0-41fd-a5b8-b4b82063d60e)
+
 
 ### Login page
 ![Screenshot 2023-10-03 at 20-20-15 Vite App](https://github.com/guipelder/vue_fruitter/assets/79325164/7122e8a5-44cf-415a-b93a-00e7bead0980)
