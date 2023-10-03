@@ -17,6 +17,7 @@ export default {
     singleFruit
   },
   props: {
+    // TODO id is not required since we filtered selected would be only always
 
     id: Number,
     required: false,
