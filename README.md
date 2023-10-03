@@ -1,6 +1,7 @@
 # fruit
 
-This template should help get you started developing with Vue 3 in Vite.
+simple web application with Vue 3 in Vite.
+about fruits.
 
 ## Recommended IDE Setup
 
