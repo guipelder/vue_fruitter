@@ -1,7 +1,7 @@
 # fruit
 
 simple web application with Vue 3 in Vite.  
-about fruits.
+about selling fruits.
 ## screenshots
 
 ### Main page
