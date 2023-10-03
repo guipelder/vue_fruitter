@@ -1,6 +1,6 @@
 # fruit
 
-simple web application with Vue 3 in Vite.
+simple web application with Vue 3 in Vite.  
 about fruits.
 
 ## Recommended IDE Setup
